@@ -5,7 +5,7 @@ import {
   Buttons,
   Button,
   ResetButton,
-} from "./style/Contador.style";
+} from "../style/Contador.style";
 
 class Contador extends Component {
   state = {

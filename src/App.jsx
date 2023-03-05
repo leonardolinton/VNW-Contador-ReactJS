@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Container } from "./components/style/Container.style";
+import { Container } from "./style/Container.style";
 import Contador from "./components/Contador";
 
 class App extends Component {
